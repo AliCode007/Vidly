@@ -1,0 +1,29 @@
+{"message":"Connected.....","level":"info","service":"user-service"}
+{"message":"Connected.....","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 msfailed to reconnect after 30 attempts with interval 1000 ms","stack":"MongoNetworkError: failed to reconnect after 30 attempts with interval 1000 ms\n    at Connection.<anonymous> (/home/ali/Desktop/Project/vidly/node_modules/mongodb-core/lib/connection/pool.js:364:13)\n    at Connection.emit (events.js:182:13)\n    at Socket.<anonymous> (/home/ali/Desktop/Project/vidly/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:273:13)\n    at Socket.emit (events.js:182:13)\n    at emitErrorNT (internal/streams/destroy.js:82:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connection Failed....","level":"error"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected.....","level":"info"}
